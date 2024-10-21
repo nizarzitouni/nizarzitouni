@@ -27,22 +27,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nizarzitouni" alt="Visitor Badge">
 </p>
 
----
-
-## 🛠 Skills
-
-- **Languages**: Dart, Java, C#
-- **Frameworks/Platforms**: Flutter, Firebase, GetX, BLoC, Unity, Blender
-- **Database Technologies**: SQLite, Hive, MySQL, ERP Systems
-- **Tools & SDKs**: RevenueCat, Amplitude, Firebase Analytics, AdMob, Git, GitHub, Jira
-- **Design & Game Development**: Blender, Unity, 3D Asset Creation, Game Level Design, Greyboxing
-- **Architecture & Principles**: SOLID Principles, Design Patterns, Clean Code, Clean Architecture, Dependency Injection, State-management (GetX, BLoC)
-- **Methodologies**: Agile, Scrum, Cross-functional Collaboration
-- **Other**: API Integrations, Version Control, Project Management, Responsive & Dynamic User Interfaces
-- **Languages**: English (C1), French (B1), Arabic (Native)
-
----
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e88cf710-cdde-4d60-86c8-2a8f18936044" alt="Animation" width="400">
 </p>
