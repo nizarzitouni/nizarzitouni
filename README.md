@@ -11,8 +11,7 @@
   I love building cool mobile apps that people enjoy using!
   <br><br>
   <a href="https://drive.google.com/file/d/1PQDMY-a-uwOUMyIHKezZDdIxtVT6N403/view">My Resume</a> |
-  <a href="https://nizarzitouni.github.io/">My Website</a> |
-  <a href="https://github.com/nizarzitouni">My GitHub</a>
+  <a href="https://nizarzitouni.github.io/">My Website</a> 
 </p>
 
 <p align="center">
