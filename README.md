@@ -19,7 +19,7 @@ I'm a Flutter developer from Constantine, Algeria. I take mobile apps from idea 
 <td width="33%" valign="top"><a href="https://nizarzitouni.github.io/project.html?p=poseghost"><img src="assets/featured/poseghost.webp" alt="PoseGhost"></a><br><b>PoseGhost</b><br><sub>See the pose before you shoot, with a ghost guide right on your camera.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://nizarzitouni.github.io/project.html?p=workout-finder"><img src="assets/featured/trainy.webp" alt="Trainy"></a><br><b>Trainy</b><br><sub>Pick exercises from a visual body map, 999+ moves with animated guides.</sub></td>
+<td width="33%" valign="top"><a href="https://play.google.com/store/apps/details?id=nz.dev.workoutfinder"><img src="assets/featured/trainy.webp" alt="Trainy"></a><br><b>Trainy</b><br><sub>Plan gym workouts, build routines, track sets, reps and your progress offline.<br><a href="https://play.google.com/store/apps/details?id=nz.dev.workoutfinder">Google Play</a> · <a href="https://apps.apple.com/app/id6806390131">App Store</a></sub></td>
 <td width="33%" valign="top"><a href="https://nizarzitouni.github.io/project.html?p=mockly"><img src="assets/featured/mockly.webp" alt="Mockly"></a><br><b>Mockly</b><br><sub>Create realistic fake social media posts and chat conversations in seconds.</sub></td>
 <td width="33%" valign="top"><a href="https://nizarzitouni.github.io/project.html?p=wardrobe-snap"><img src="assets/featured/wardrobe-snap.webp" alt="Wardrobe Snap"></a><br><b>Wardrobe Snap</b><br><sub>Snap your clothes, organize a digital closet, and plan outfits.</sub></td>
 </tr>
