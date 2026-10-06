@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Nizar Zitouni, Flutter developer">
+<style>
+.bg { fill: #0b0b0b; }
+.f { stroke: rgba(255,255,255,.26); stroke-width: 1; stroke-linejoin: round; }
+.t { fill: #1c1c1c; } .l { fill: #151515; } .r { fill: #101010; }
+.em.t { fill: #10b981; } .em.l { fill: #0c8f64; } .em.r { fill: #086b4b; }
+.pu.t { fill: #a45bff; } .pu.l { fill: #7f3fd6; } .pu.r { fill: #5f2ea3; }
+.bl.t { fill: #38bdf8; } .bl.l { fill: #1d8fc2; } .bl.r { fill: #146a91; }
+.or.t { fill: #f5792a; } .or.l { fill: #c45e1f; } .or.r { fill: #934617; }
+.mono { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; }
+.sans { font-family: "DM Sans", "Segoe UI", Helvetica, Arial, sans-serif; }
+.eyebrow { fill: #666; font-size: 15px; letter-spacing: .14em; }
+.name { fill: #ececec; font-size: 72px; font-weight: 500; letter-spacing: -.03em; }
+.lead { fill: #a9a9a9; font-size: 22px; }
+.tag { fill: #38bdf8; font-size: 15px; }
+.bob { animation: bob 2.8s ease-in-out infinite; }
+@keyframes bob { 50% { transform: translateY(-8px); } }
+.caret { fill: #38bdf8; animation: blink 1.1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .bob, .caret { animation: none; } }
+</style>
+<rect class="bg" width="1200" height="420" rx="18"/>
+<rect width="1199" height="419" x=".5" y=".5" rx="18" fill="none" stroke="rgba(255,255,255,.11)"/>
+<text class="mono eyebrow" x="64" y="120">FLUTTER DEVELOPER · CONSTANTINE, ALGERIA</text>
+<text class="sans name" x="60" y="200">Nizar Zitouni</text>
+<text class="sans lead" x="64" y="250">I take mobile apps from idea to store.</text>
+<text class="mono tag" x="64" y="320">&gt; nz-dev studio · 20+ apps shipped<tspan class="caret"> &#9612;</tspan></text>
+<polygon class="f l" points="656.6,247.0 791.7,325.0 791.7,311.5 656.6,233.5"/><polygon class="f r" points="1015.1,196.0 791.7,325.0 791.7,311.5 1015.1,182.5"/><polygon class="f t" points="880.0,104.5 1015.1,182.5 791.7,311.5 656.6,233.5"/>
+<g class="bob" style="animation-delay:0.00s"><polygon class="f l em" points="847.5,135.2 880.0,154.0 880.0,88.0 847.5,69.2"/><polygon class="f r em" points="912.5,135.2 880.0,154.0 880.0,88.0 912.5,69.2"/><polygon class="f t em" points="880.0,50.5 912.5,69.2 880.0,88.0 847.5,69.2"/></g><g class="bob" style="animation-delay:0.35s"><polygon class="f l" points="806.0,159.2 838.4,178.0 838.4,148.0 806.0,129.2"/><polygon class="f r" points="870.9,159.2 838.4,178.0 838.4,148.0 870.9,129.2"/><polygon class="f t" points="838.4,110.5 870.9,129.2 838.4,148.0 806.0,129.2"/></g><polygon class="f l" points="887.8,158.5 920.3,177.2 920.3,171.8 887.8,153.1"/><polygon class="f r" points="952.7,158.5 920.3,177.2 920.3,171.8 952.7,153.1"/><polygon class="f t" points="920.3,134.3 952.7,153.1 920.3,171.8 887.8,153.1"/><polygon class="f l" points="764.4,183.2 796.9,202.0 796.9,196.6 764.4,177.8"/><polygon class="f r" points="829.3,183.2 796.9,202.0 796.9,196.6 829.3,177.8"/><polygon class="f t" points="796.9,159.1 829.3,177.8 796.9,196.6 764.4,177.8"/><polygon class="f l" points="846.2,182.5 878.7,201.2 878.7,195.8 846.2,177.1"/><polygon class="f r" points="911.2,182.5 878.7,201.2 878.7,195.8 911.2,177.1"/><polygon class="f t" points="878.7,158.3 911.2,177.1 878.7,195.8 846.2,177.1"/><g class="bob" style="animation-delay:0.70s"><polygon class="f l" points="928.1,181.8 960.5,200.5 960.5,173.5 928.1,154.8"/><polygon class="f r" points="993.0,181.8 960.5,200.5 960.5,173.5 993.0,154.8"/><polygon class="f t" points="960.5,136.0 993.0,154.8 960.5,173.5 928.1,154.8"/></g><g class="bob" style="animation-delay:1.05s"><polygon class="f l bl" points="722.8,207.2 755.3,226.0 755.3,142.0 722.8,123.2"/><polygon class="f r bl" points="787.8,207.2 755.3,226.0 755.3,142.0 787.8,123.2"/><polygon class="f t bl" points="755.3,104.5 787.8,123.2 755.3,142.0 722.8,123.2"/></g><g class="bob" style="animation-delay:1.40s"><polygon class="f l" points="804.7,206.5 837.1,225.2 837.1,177.2 804.7,158.5"/><polygon class="f r" points="869.6,206.5 837.1,225.2 837.1,177.2 869.6,158.5"/><polygon class="f t" points="837.1,139.8 869.6,158.5 837.1,177.2 804.7,158.5"/></g><g class="bob" style="animation-delay:1.75s"><polygon class="f l pu" points="886.5,205.8 919.0,224.5 919.0,122.5 886.5,103.8"/><polygon class="f r pu" points="951.4,205.8 919.0,224.5 919.0,122.5 951.4,103.8"/><polygon class="f t pu" points="919.0,85.0 951.4,103.8 919.0,122.5 886.5,103.8"/></g><polygon class="f l" points="681.2,231.2 713.7,250.0 713.7,244.6 681.2,225.8"/><polygon class="f r" points="746.2,231.2 713.7,250.0 713.7,244.6 746.2,225.8"/><polygon class="f t" points="713.7,207.1 746.2,225.8 713.7,244.6 681.2,225.8"/><polygon class="f l" points="763.1,230.5 795.6,249.2 795.6,243.8 763.1,225.1"/><polygon class="f r" points="828.0,230.5 795.6,249.2 795.6,243.8 828.0,225.1"/><polygon class="f t" points="795.6,206.3 828.0,225.1 795.6,243.8 763.1,225.1"/><polygon class="f l" points="844.9,229.7 877.4,248.5 877.4,243.1 844.9,224.3"/><polygon class="f r" points="909.9,229.7 877.4,248.5 877.4,243.1 909.9,224.3"/><polygon class="f t" points="877.4,205.6 909.9,224.3 877.4,243.1 844.9,224.3"/><g class="bob" style="animation-delay:2.10s"><polygon class="f l or" points="721.5,254.5 754.0,273.2 754.0,213.2 721.5,194.5"/><polygon class="f r or" points="786.5,254.5 754.0,273.2 754.0,213.2 786.5,194.5"/><polygon class="f t or" points="754.0,175.7 786.5,194.5 754.0,213.2 721.5,194.5"/></g><g class="bob" style="animation-delay:2.45s"><polygon class="f l" points="803.4,253.8 835.8,272.5 835.8,236.5 803.4,217.8"/><polygon class="f r" points="868.3,253.8 835.8,272.5 835.8,236.5 868.3,217.8"/><polygon class="f t" points="835.8,199.0 868.3,217.8 835.8,236.5 803.4,217.8"/></g><polygon class="f l" points="761.8,277.8 794.3,296.5 794.3,291.1 761.8,272.4"/><polygon class="f r" points="826.7,277.8 794.3,296.5 794.3,291.1 826.7,272.4"/><polygon class="f t" points="794.3,253.6 826.7,272.4 794.3,291.1 761.8,272.4"/>
+</svg>
